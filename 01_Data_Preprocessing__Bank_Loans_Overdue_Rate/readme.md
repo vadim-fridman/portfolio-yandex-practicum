@@ -2,7 +2,9 @@
 
 
 
-This is my very first data analysis project. Please take a look into other ones too! 
+This is my very first data analysis project, so don't judge me too harshly. 
+
+Please take a look into other ones too! 
 
 
 
