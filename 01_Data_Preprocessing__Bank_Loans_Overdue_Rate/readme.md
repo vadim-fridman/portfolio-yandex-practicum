@@ -1,6 +1,9 @@
 ## Data Preprocessing
 
-It was my very first data analysis project. 
+
+
+This is my very first data analysis project. Please take a look into other ones too! 
+
 
 
 | Project name | Description | Libraries used | 
