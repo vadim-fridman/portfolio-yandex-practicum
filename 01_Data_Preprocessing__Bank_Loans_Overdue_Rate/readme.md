@@ -1,6 +1,7 @@
 ## Data Preprocessing
 
-These project was completed for Practicum's Data Analyst professional training programs.
+It was my very first data analysis project. 
+
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
