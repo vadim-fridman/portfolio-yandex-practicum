@@ -4,7 +4,7 @@ This is one of my very first data analysis projects, so don't judge me too harsh
 
 Please take a look into other ones too! 
 
-Please note that for legal reasons I can't publish the datasets and full project description. 
+Please note that for legal reasons I can't publish the datasets and the full project description. 
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
