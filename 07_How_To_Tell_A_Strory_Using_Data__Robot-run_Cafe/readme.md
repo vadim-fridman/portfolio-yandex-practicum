@@ -1,4 +1,4 @@
-## Telling a story using data¶
+## Telling a story using data
 
 Please note that for legal reasons I can't publish the datasets and full project description. 
 
