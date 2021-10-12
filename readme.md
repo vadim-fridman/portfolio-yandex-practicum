@@ -1,4 +1,4 @@
-## All the projects completed for the Practicum's Data Analyst professional training programs
+## All the projects completed for the Practicum's Data Analyst professional training program in 2020-2021
 
 Please note that for legal reasons I can't publish the datasets and full project description. 
 
