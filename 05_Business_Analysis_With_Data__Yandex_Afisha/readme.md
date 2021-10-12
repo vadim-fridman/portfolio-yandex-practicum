@@ -1,6 +1,6 @@
 ## Business Analysis With Data
 
-Please note that for legal reasons I can't publish the datasets and full project description. 
+Please note that for legal reasons I can't publish the datasets and the full project description. 
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
