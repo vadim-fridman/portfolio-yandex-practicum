@@ -8,4 +8,4 @@ Please note that for legal reasons I can't publish the datasets and the full pro
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Exploratory Data Analysis](https://github.com/vadim-fridman/portfolio-yandex-practicum/edit/master/02_Exploratory_Data_Analysis__Car_Sales) | The project goal is find out which factors influence the price of a vehicles, which were sold on a given website.  | *pandas*, *matplotlib*|
+| [Exploratory Data Analysis](https://github.com/vadim-fridman/portfolio-yandex-practicum/edit/master/02_Exploratory_Data_Analysis__Car_Sales) | The project goal is to find out which factors influence the price of vehicles, which are sold on a given website. | *pandas*, *matplotlib*|
